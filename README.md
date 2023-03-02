@@ -3,7 +3,7 @@
 ## Overview
 
 ## Resources
-**Data Source:** complaints.csv
+**Data Source:** Consumer Complaint Database was extracted from [data.gov](https://catalog.data.gov/dataset/consumer-complaint-database) on December 2022. The database consists of complaints about consumer financial products and services for institutions that have more than $10 billion in assets and is managed by the Consumer Financial Protection Bureau.<br>
 **Software:** Tableau Public 2022.2.1
 
 ## Results
